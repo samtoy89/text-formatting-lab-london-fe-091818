@@ -1,4 +1,5 @@
-# Text Formatting in HTML
+<!DOCTYPE HTML>
+
 
 ## Problem Statement
 
